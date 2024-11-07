@@ -15,19 +15,19 @@
 .green--box{
   width: 150px;
   height: 250px;
-  background: #00ff1e;
+  background: #00ff51;
   float: left;
 }
 
-.blue--box{
+.brown--box{
   width: 250px;
   height: 250px;
-  background: #3300ff;
+  background: #8c2727;
   float: left;
 }
 
 .yellow--box{
   width: 400px;
   height: 100px;
-  background: #ffe600;
+  background: #ffd000;
 }

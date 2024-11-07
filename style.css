@@ -65,7 +65,6 @@
 .orange--box1 {
   width: 140px;
   height: 40px;
-  margin: 0;
   background-color: #ff863f;
   border: 5px solid #ffffff;
   position: relative;
@@ -76,7 +75,6 @@
 .orange--box2 {
   width: 140px;
   height: 40px;
-  margin: 0;
   background-color: #ff863f;
   border: 5px solid #ffffff;
   position: relative;
@@ -87,7 +85,6 @@
 .orange--box3 {
   width: 140px;
   height: 40px;
-  margin: 0;
   background-color: #ff863f;
   border: 5px solid #ffffff;
   position: relative;

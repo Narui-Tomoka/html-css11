@@ -6,7 +6,7 @@
   clear: both;
 }
 
-.red--box{
+.red--box {
   width: 400px;
   height: 100px;
   background: #ff0000;
@@ -17,16 +17,20 @@
   position: absolute;
   top: 20px;
   right: 20px; 
+  padding: 10px;
   background-color: #ffffff;
-  border-left: 10px solid #ffffff;
 }
 
 .purple--box {
   width: 40px;
   height: 40px;
-  margin: 10px 10px 10px 0 ;
+  margin-left: 10px;
   background-color: #a9004b;
-  float: right;
+  float: left;
+}
+
+.purple--box:first-child {
+  margin-left: 0px;
 }
 
 .green--box{
@@ -55,6 +59,10 @@
   top: 40px;
   left: 40px;
   margin-bottom: 10px;
+}
+
+.orange--box:last-child {
+  margin-bottom: 0px;
 }
 
 .yellow--box{
